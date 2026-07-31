@@ -204,3 +204,13 @@ MIT — 見 [LICENSE](LICENSE)。
 ## 致謝
 
 感謝 PleasePrompto、kristol07、jacob-bd 三位開發者開源了讓我們能用程式碼接上 NotebookLM 的工具。
+
+---
+
+## 維護者
+
+江昱德（Jiang Yude）<br>
+隱性知識提煉師<br>
+AI 知識架構師
+
+[知識官網](https://jiangyude.com/) · [Threads](https://www.threads.com/@jiang_yude_coach)
